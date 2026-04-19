@@ -1,8 +1,11 @@
+html, body {
+    height: 100%;
+}
+
 body {
     background: hsl(212, 45%, 89%);
     display: flex;
     flex-flow: column wrap;
-    border: 1px solid black;
 }
 
 footer {
